@@ -1,0 +1,254 @@
+[
+  {
+    "bg": "electro",
+    "character": "Xiangli Yao",
+    "weaponType": "rectifier",
+    "element": "electroelement",
+    "icon": "xiangliyao",
+    "rarity": "5star",
+    "name": "Xiangli Yao"
+  },
+  {
+    "bg": "fusion",
+    "character": "Changli",
+    "weaponType": "sword",
+    "element": "fusionelement",
+    "icon": "changli",
+    "rarity": "5star",
+    "name": "Changli"
+  },
+  {
+    "bg": "spectro",
+    "character": "Jinhsi",
+    "weaponType": "broadblade",
+    "element": "spectroelement",
+    "icon": "jinhsi",
+    "rarity": "5star",
+    "name": "Jinhsi"
+  },
+  {
+    "bg": "havoc",
+    "character": "Camellya",
+    "weaponType": "sword",
+    "element": "havocelement",
+    "icon": "camellya",
+    "rarity": "5star",
+    "name": "Camellya"
+  },
+  {
+    "bg": "aero",
+    "character": "Jiyan",
+    "weaponType": "broadblade",
+    "element": "aeroelement",
+    "icon": "jiyan",
+    "rarity": "5star",
+    "name": "Jiyan"
+  },
+  {
+    "bg": "electro",
+    "character": "Calcharo",
+    "weaponType": "broadblade",
+    "element": "electroelement",
+    "icon": "calcharo",
+    "rarity": "5star",
+    "name": "Calcharo"
+  },
+  {
+    "bg": "glacio",
+    "character": "Carlotta",
+    "weaponType": "pistol",
+    "element": "glacioelement",
+    "icon": "carlotta",
+    "rarity": "5star",
+    "name": "Carlotta"
+  },
+  {
+    "bg": "fusion",
+    "character": "Encore",
+    "weaponType": "rectifier",
+    "element": "fusionelement",
+    "icon": "encore",
+    "rarity": "5star",
+    "name": "Encore"
+  },
+  {
+    "bg": "aero",
+    "character": "Jianxin",
+    "weaponType": "gauntlet",
+    "element": "aeroelement",
+    "icon": "jianxin",
+    "rarity": "5star",
+    "name": "Jianxin"
+  },
+  {
+    "bg": "glacio",
+    "character": "Lingyang",
+    "weaponType": "gauntlet",
+    "element": "glacioelement",
+    "icon": "lingyang",
+    "rarity": "5star",
+    "name": "Lingyang"
+  },
+  {
+    "bg": "spectro",
+    "character": "Phoebe",
+    "weaponType": "rectifier",
+    "element": "spectroelement",
+    "icon": "phoebe",
+    "rarity": "5star",
+    "name": "Phoebe"
+  },
+  {
+    "bg": "havoc",
+    "character": "Roccia",
+    "weaponType": "gauntlet",
+    "element": "havocelement",
+    "icon": "roccia",
+    "rarity": "5star",
+    "name": "Roccia"
+  },
+  {
+    "bg": "spectro",
+    "character": "Spectro Rover",
+    "weaponType": "sword",
+    "element": "spectroelement",
+    "icon": "rover",
+    "rarity": "5star",
+    "name": "Spectro Rover"
+  },
+  {
+    "bg": "havoc",
+    "character": "Havoc Rover",
+    "weaponType": "sword",
+    "element": "havocelement",
+    "icon": "rover",
+    "rarity": "5star",
+    "name": "Havoc Rover"
+  },
+  {
+    "bg": "spectro",
+    "character": "Shorekeeper",
+    "weaponType": "rectifier",
+    "element": "spectroelement",
+    "icon": "shorekeeper",
+    "rarity": "5star",
+    "name": "Shorekeeper"
+  },
+  {
+    "bg": "spectro",
+    "character": "Verina",
+    "weaponType": "rectifier",
+    "element": "spectroelement",
+    "icon": "verina",
+    "rarity": "5star",
+    "name": "Verina"
+  },
+  {
+    "bg": "electro",
+    "character": "Yinlin",
+    "weaponType": "rectifier",
+    "element": "electroelement",
+    "icon": "yinlin",
+    "rarity": "5star",
+    "name": "Yinlin"
+  },
+  {
+    "bg": "glacio",
+    "character": "Zhezhi",
+    "weaponType": "rectifier",
+    "element": "glacioelement",
+    "icon": "zhezhi",
+    "rarity": "5star",
+    "name": "Zhezhi"
+  },
+  {
+    "bg": "aero",
+    "character": "Aalto",
+    "weaponType": "pistol",
+    "element": "glacioelement",
+    "icon": "aalto",
+    "rarity": "4star",
+    "name": "Aalto"
+  },
+  {
+    "bg": "glacio",
+    "character": "Baizhi",
+    "weaponType": "rectifier",
+    "element": "glacioelement",
+    "icon": "baizhi",
+    "rarity": "4star",
+    "name": "Baizhi"
+  },
+  {
+    "bg": "fusion",
+    "character": "Chixia",
+    "weaponType": "pistol",
+    "element": "fusionelement",
+    "icon": "chixia",
+    "rarity": "4star",
+    "name": "Chixia"
+  },
+  {
+    "bg": "havoc",
+    "character": "Danjin",
+    "weaponType": "sword",
+    "element": "havocelement",
+    "icon": "danjin",
+    "rarity": "4star",
+    "name": "Danjin"
+  },
+  {
+    "bg": "electro",
+    "character": "Lumi",
+    "weaponType": "broadblade",
+    "element": "electroelement",
+    "icon": "lumi",
+    "rarity": "4star",
+    "name": "Lumi"
+  },
+  {
+    "bg": "fusion",
+    "character": "Mortefi",
+    "weaponType": "pistol",
+    "element": "fusionelement",
+    "icon": "mortefi",
+    "rarity": "4star",
+    "name": "Mortefi"
+  },
+  {
+    "bg": "glacio",
+    "character": "Sanhua",
+    "weaponType": "sword",
+    "element": "glacioelement",
+    "icon": "sanhua",
+    "rarity": "4star",
+    "name": "Sanhua"
+  },
+  {
+    "bg": "havoc",
+    "character": "Taoqi",
+    "weaponType": "broadblade",
+    "element": "havocelement",
+    "icon": "taoqi",
+    "rarity": "4star",
+    "name": "Taoqi"
+  },
+  {
+    "bg": "aero",
+    "character": "Yangyang",
+    "weaponType": "sword",
+    "element": "aeroelement",
+    "icon": "yangyang",
+    "rarity": "4star",
+    "name": "Yangyang"
+  },
+  {
+    "bg": "glacio",
+    "character": "Youhu",
+    "weaponType": "gauntlet",
+    "element": "glacioelement",
+    "icon": "youhu",
+    "rarity": "4star",
+    "name": "Youhu"
+  }
+]
